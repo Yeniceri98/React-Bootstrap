@@ -1,4 +1,4 @@
-You can click the link to see project [React Bootstrap](https://awesome-villani-1fe498.netlify.app/).
+CLick and see the project[React Bootstrap](https://awesome-villani-1fe498.netlify.app/).
 
 ## Available Scripts
 
